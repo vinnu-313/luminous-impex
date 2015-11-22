@@ -1,0 +1,17 @@
+{
+  "name": "luminous",
+  "version": "0.0.1",
+  "description": "A static website for luminous impex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "4.1.1"
+  },
+  "author": "vinnu313",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
