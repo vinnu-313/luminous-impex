@@ -98,9 +98,9 @@
 	});
 	setInterval(function(){
 		if($('#landing-text').text().indexOf('We') === 0){
-			$('#landing-text').hide().html('Efficient business methods and a single-minded, <br/>dedicated approach to delivering our products and <br/>services to you is absolutely guaranteed.').fadeIn();
+			$('#landing-text').hide().html('The best of services and products delivered with excellence is our mission.<br/> Quality, integrity and solidarity is our vision.').fadeIn();
 		}else{
-			$('#landing-text').hide().html('We dedicate ourselves to humanity’s quest for longer, <br/>healthier, happier lives through innovation in all <br/>our business verticals.').fadeIn();
+			$('#landing-text').hide().html('We dedicate this to the humanity\'s eternal quest<br/> for leading a successful, fruitful and <br/>a life well-lived.').fadeIn();
 		}
 	}, 10000);
 })(jQuery);
